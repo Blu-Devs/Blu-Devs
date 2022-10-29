@@ -1,4 +1,4 @@
-# The name is Michael but I usually go by Mike
+# The name is Michael but I usually go by Mike 🤝
 
 Firstly, I am creative Programmer and Games Developer born and raised in Manchester. Currently, as a Student at the University of South Wales, I am developing a varied range of **skills** across different projects. Outside of work, if you can't find me catching up with friends and family you can find me surpassing my limits mentally and physically - some of these interests include:
 
@@ -7,7 +7,7 @@ Firstly, I am creative Programmer and Games Developer born and raised in Manches
 - Drumming 🥁
 - Reading 📖
 
-## Current Endeavors
+## Current Endeavors 📍
 
 As an advance towards my aspirations I am currently recording a [**Devlog**](https://twitter.com/BlupandaDevs) on twitter to track my progress as a games developer. What you may find me working on currently:
 
@@ -16,7 +16,7 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - **Video Editing** 🎥
 - **Physics based simulation (Unity)** :atom:
 
-## Previous Experience
+## Previous Experience 📰
 
 - Python
 - HTML5
