@@ -1,4 +1,4 @@
-# Hello, my name is Michael but I usually go by Mike
+# The name is Michael but I usually go by Mike
 
 Firstly, I am creative programmer and Games developer born and raised in Manchester. Currently, as a student at the University of South Wales, I am developing a varied range of [**skills**](https://github.com/Michael-Derbyshire/Blupanda/edit/master/README.md#current-endeavors) across different projects. Outside of work, if you can't find me catching up with friends and family you can find me pushing my limits mentally and physically - some of these interests include:
 
