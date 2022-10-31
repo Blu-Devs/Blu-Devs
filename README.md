@@ -22,11 +22,12 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - HTML5
 - C++
 - C#
+- SQL
 - Unreal
 - Unity
 - Maya
 - Blender
-- SQL
+
 
 ### Connect to me
 
