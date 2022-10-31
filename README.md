@@ -29,7 +29,7 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - Blender
 
 
-### Connect to me
+### Connect to me 📩
 
 - [**Twitter**](https://twitter.com/BlupandaDevs)
 - [**LinkedIn**](https://www.linkedin.com/in/michael-derbyshire-647545255/)
