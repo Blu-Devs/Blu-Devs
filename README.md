@@ -19,15 +19,11 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 ## Previous Experience 📰
 
 - Python
-- JavaScript
-- HTML5
 - C++
 - C#
-- SQL
 - Unreal
 - Unity
 - Maya
-- Blender
 
 
 ### Connect to me 📩
