@@ -13,7 +13,7 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 
 - **3D Modelling and Rendering (Blender)** 🖥️
 - **Programming (C++, C#, Python)** 👾
-- **Video Editing** 🎥
+- **Sprite Creation (Aseprite)** 🎥
 - **Developing Games (Unreal, Unity and Godot)** :atom:
 
 ## Previous Experience 📰
@@ -21,7 +21,8 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - Python
 - C++
 - C#
-- Unreal
+- HTML5
+- Unreal (Visual Scripting)
 - Unity
 - Maya
 
