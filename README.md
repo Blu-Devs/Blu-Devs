@@ -14,7 +14,7 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - **3D Modelling and Rendering (Blender)** 🖥️
 - **Programming (C++, C#, Python)** 👾
 - **Video Editing** 🎥
-- **Developing Games (Unreal and Godot)** :atom:
+- **Developing Games (Unreal, Unity and Godot)** :atom:
 
 ## Previous Experience 📰
 
