@@ -18,7 +18,12 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 
 ## Previous Experience 📰
 
-[![Michael Derbyshires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Derbyshire&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Derbyshire&theme=synthwave)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Derbyshire&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Derbyshire&theme=synthwave&langs_count=5&hide=shaderlab,css,scss&card_width=700" />
+</a>
 
 - Python
 - C++
