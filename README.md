@@ -17,23 +17,19 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - **Developing Games/Packages (Unreal, Unity)** :atom:
 
 ## Previous Experience 📰
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Derbyshire&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Derbyshire&theme=synthwave&langs_count=5&hide=shaderlab,css,scss&card_width=700" />
-</a>
-
-- Python
-- C++
-- C#
-- HTML5
-- Unreal (Visual Scripting)
-- Unity
-- Maya
-- Asesprite
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200  src="https://github-readme-stats.vercel.app/api?username=Michael-Derbyshire&show_icons=true&theme=synthwave" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Derbyshire&theme=synthwave&langs_count=5&hide=shaderlab,css,scss&card_width=600" />
+  </a>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,blender,cs,cpp,html,py,pycharm,unity,unreal" />
+  </a>
+</p>
 
 ### Connect to me 📩
 
