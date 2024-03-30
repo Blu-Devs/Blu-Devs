@@ -25,6 +25,7 @@ As an advance towards my aspirations I am currently recording a [**Devlog**](htt
 - Unreal (Visual Scripting)
 - Unity
 - Maya
+- Asesprite
 
 
 ### Connect to me 📩
