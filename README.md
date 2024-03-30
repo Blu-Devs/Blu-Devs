@@ -1,3 +1,5 @@
+[![Michael Derbyshires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Derbyshire)](https://github.com/anuraghazra/github-readme-stats)
+
 # The name is Michael but I usually go by Mike 🤝
 
 I am Programmer and Games Developer born and raised in Manchester. Currently, as a Student at the University of South Wales, I am developing a varied range of **skills** across different projects. But, outside of work, if you can't find me catching up with friends and family you can find me surpassing my limits mentally and physically - some of these interests include:
