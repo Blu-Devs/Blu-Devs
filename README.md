@@ -6,14 +6,15 @@ I am Programmer and Games Developer born and raised in Manchester. Currently, as
 - Learning Languages
 - Philosophy
 - Reading 📖
+- Music
 
 ## Current Endeavors 📍
 
-As an advance towards my aspirations I am currently recording a [**Devlog**](https://twitter.com/BlupandaDevs) on twitter to track my progress as a games developer. I am expanding my creativity and knowledge through what you may find me working on currently:
+As an advance towards my aspirations I am currently recording a [**Devlog**](https://twitter.com/BlupandaDevs) on twitter to track my progress as a games developer. I am expanding my creativity and knowledge through what you may find me working on **currently**:
 
 - **3D Modelling and Sprite creation** 
 - **Frontend Development**🖥️
-- **Developing Games/Packages (Unreal, Unity)** 👾
+- **Developing Games/Packages (Unity)** 👾
 
 ## Previous Experience 📰
 <p align="center">
